@@ -1,0 +1,6 @@
+fastapi
+python-decouple
+uvicorn
+psycopg2-binary
+pydantic
+sqlalchemy==2.0.19
