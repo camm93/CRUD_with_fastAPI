@@ -1,0 +1,7 @@
+env/
+fast_env/
+
+__pycache__
+*.env
+*.env.*
+env.*
